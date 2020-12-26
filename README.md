@@ -1,6 +1,8 @@
 # CPU-shceduling-Algorithms
 CPU scheduling algorithms "FCFS: First-come-first-serve, RR: Round Robin" implementation and simulating their performance in some test process cases.
+
 First, user enter the file name and its extention, then, choose whether uses FCFS algorithm or RR algorithm.
+
 The output is:
   1-Termination time, Waiting time and Turnaround time for each process.
   2-Average Waiting Time and Average Turnaround Time for all process.
